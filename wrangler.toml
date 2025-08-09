@@ -1,0 +1,6 @@
+name = "nav"
+main = "workers.js"
+compatibility_date = "2025-08-08"
+
+[build]
+command = ""  # 无需构建步骤
