@@ -1,4 +1,4 @@
-name = "cf-workers-nav"
+name = "nav"
 main = "workers.js"
 compatibility_date = "2025-08-08"
 
